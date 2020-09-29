@@ -1,2 +1,2 @@
 # Recept
-Assignement 2 - Recept app
+Assignment 2 - Recept app
